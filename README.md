@@ -1,16 +1,16 @@
-# Project1 for unified mentor advance projects.
+My hands on experience on firebase for the first time . 
 
-This is my Project1 website using Firebase.
+This is my first time using Firebase.
 
-## Files
+## Files are :
 
-- `index.html` — main HTML file  
-- `style.css` — styles  
-- `auth.js` — authentication logic  
-- `firebaseConfig.js` — Firebase config  
-- `firestore.js` — Firestore setup  
+- index.html — main HTML file  
+- style.css — styles  
+- auth.js — authentication logic  
+- firebaseConfig.js — Firebase config  
+- firestore.js — Firestore setup  
 
-## Setup
+## To Setup
 
 1. Clone the repo  
 2. Run `npm install`  
